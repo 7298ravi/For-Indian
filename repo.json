@@ -1,0 +1,28 @@
+{
+  "name": "For-Indian Repo",
+  "description": "User-provided sites (16) \u2014 ready to upload. Replace placeholders with working .cs3 builds when available.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    {
+      "name": "Main",
+      "plugins": [
+        "animedekho.cs3",
+        "tpxanime.cs3",
+        "nxprime.cs3",
+        "aniflix.cs3",
+        "toonstream.cs3",
+        "hentaicity.cs3",
+        "hentaihaven.cs3",
+        "hanimetv.cs3",
+        "xhamster.cs3",
+        "iporntv.cs3",
+        "xnxx.cs3",
+        "pornhub.cs3",
+        "vegamovies.cs3",
+        "cinemalux.cs3",
+        "moviebox.cs3",
+        "hdmovie2.cs3"
+      ]
+    }
+  ]
+}

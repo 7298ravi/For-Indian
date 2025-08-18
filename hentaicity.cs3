@@ -1,0 +1,8 @@
+{
+  "name": "hentaicity",
+  "website": "https://hentaicity.com",
+  "description": "Placeholder for hentaicity (https://hentaicity.com). Replace with a compiled .cs3 to make it functional.",
+  "version": "0.0.1",
+  "author": "For-Indian",
+  "notes": "Metadata only; not a working scraper."
+}

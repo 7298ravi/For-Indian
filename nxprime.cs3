@@ -1,0 +1,8 @@
+{
+  "name": "nxprime",
+  "website": "https://nxprime.in",
+  "description": "Placeholder for nxprime (https://nxprime.in). Replace with a compiled .cs3 to make it functional.",
+  "version": "0.0.1",
+  "author": "For-Indian",
+  "notes": "Metadata only; not a working scraper."
+}
